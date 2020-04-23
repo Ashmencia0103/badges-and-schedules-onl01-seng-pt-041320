@@ -17,16 +17,6 @@ def assign_rooms(array) #defining a method that will take a list of names and as
     end
     names_with_room_numbers
 end
-# def printer(array)
-#     batch_badge_creator(array).each do |list|
-#      puts list
-#     end
-#     assign_rooms(array).each do |list|
-#      puts list
-#     end
-# end
-# printer (names)
-# 
 
 
 def printer(array)
@@ -37,4 +27,13 @@ def printer(array)
     puts line
   end
 end
-# printer(names)
+def printer(array)
+#     batch_badge_creator(array).each do |list|
+#      puts list
+#     end
+#     assign_rooms(array).each do |list|
+#      puts list
+#     end
+# end
+# printer (names)
+#
